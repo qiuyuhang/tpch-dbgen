@@ -1,0 +1,8 @@
+*.o
+*.csv
+*.tbl
+
+dbgen
+qgen
+finals
+result
